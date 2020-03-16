@@ -1,0 +1,35 @@
+_repo: General-History-of-Civilisation-in-Europe-From-the-Fall-of-the-Roman-Empire-Till-the-French-R__61572
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guizot, François
+    aliases:
+    - Guizot, Francois Pierre Guillaume
+    - Guizot, M. (François)
+    - Guizot, FranÃ§ois
+    - Guizot, Monsieur (François)
+    - Guizot, François Pierre Guillaume
+    - Guisot, M. (François)
+    birthdate: 1787
+    deathdate: 1874
+    gutenberg_agent_id: '5686'
+    url: http://www.gutenberg.org/2009/agents/5686
+    wikipedia:
+    - https://en.wikipedia.org/wiki/François_Guizot
+    - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Guizot
+description: ''
+gutenberg_issued: '2020-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61572'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CB'
+- !lcsh 'Europe -- Civilization'
+- GITenberg
+title: General History of Civilisation in Europe, From the Fall of the Roman Empire
+  Till the French Revolution. A Treatise on Death Punishments.
+url: http://www.gutenberg.org/ebooks/61572
